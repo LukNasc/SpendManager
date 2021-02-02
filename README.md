@@ -8,7 +8,7 @@ utilizando banco de dados, Speed Dial e outras.
 <img src="./assets/imagem_1.png" width="150px"    align="left">
 <img src="./assets/imagem_2.png" width="150px"    align="left">
 <img src="./assets/imagem_3.png" width="150px"    align="left">
-<img src="./assets/imagem_4.png" width="150px"    align="left">
+<img src="./assets/imagem_4.png" width="150px"    >
 
 ## Getting Started
 
