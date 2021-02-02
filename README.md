@@ -3,11 +3,12 @@
 Um projeto flutter afins de aprendizado e estudo.
 utilizando banco de dados, Speed Dial e outras.
 
-## Screenshots</div>
-<img src="./assets/imagem_1.png" width="150px">
-<img src="./assets/imagem_2.png" width="150px">
-<img src="./assets/imagem_3.png" width="150px">
-<img src="./assets/imagem_4.png" width="150px">
+## Screenshots
+
+<img src="./assets/imagem_1.png" width="150px"    align="left">
+<img src="./assets/imagem_2.png" width="150px"    align="left">
+<img src="./assets/imagem_3.png" width="150px"    align="left">
+<img src="./assets/imagem_4.png" width="150px"    align="left">
 
 ## Getting Started
 
